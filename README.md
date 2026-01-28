@@ -1,3 +1,6 @@
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/cd1dc013-9809-4f26-a2dd-093014802f9d" />
+
+
 # 📸 InstaGram Report Bot v2.0
 
 **InstaGram Report Bot** is an advanced automation script designed to report non-compliant profiles through Instagram's Help Center. The tool leverages multi-threading and proxy rotation to provide a high-speed, reliable reporting experience.
