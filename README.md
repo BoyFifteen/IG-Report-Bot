@@ -23,8 +23,8 @@
 ## 🛠️ Installation & Usage
 
 1. **Clone the project:**
-   ```bash
-   git clone [https://github.com/BoyFifteen/IG-Report-Bot.git](https://github.com/BoyFifteen/IG-Report-Bot.git)
+```bash
+   git clone https://github.com/BoyFifteen/IG-Report-Bot.git
    cd IG-Report-Bot
 
 ```
