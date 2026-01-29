@@ -24,7 +24,7 @@
 
 1. **Clone the project:**
    ```bash
-   git clone [https://github.com/BoyFifteen/IG-Report-Bot-V2.git](https://github.com/BoyFifteen/IG-Report-Bot-V2.git)
+   git clone [https://github.com/BoyFifteen/IG-Report-Bot.git](https://github.com/BoyFifteen/IG-Report-Bot.git)
    cd IG-Report-Bot-V2
 
 ```
